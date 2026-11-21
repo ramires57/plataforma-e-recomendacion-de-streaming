@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CineMatch: recomendación por géneros y demostración de ReLU
 
 Aplicación local y desplegable en Streamlit. Contesta 10 preguntas sobre tus
@@ -89,3 +90,6 @@ recomendador real.
 ```bash
 python -m unittest test_recommendations.py
 ```
+=======
+# plataforma-e-recomendacion-de-streaming
+>>>>>>> 6bc44608412b73bde25b742731bb3dd14a81e0f7
